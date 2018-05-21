@@ -1,10 +1,10 @@
 import praw
 
-reddit = praw.Reddit(client_id = '',
-                     client_secret = '',
-                     username = '',
-                     password = '',
-                     user_agent = '')
+reddit = praw.Reddit(client_id = '5ymneRklqpWMLg',
+                     client_secret = '	YXa1oftVLuPRwnmKr2aIjG12GwY',
+                     username = 'awwbot',
+                     password = 'prawbot2779',
+                     user_agent = 'awwbotv1')
 
 subreddit = reddit.subreddit('aww')
 
